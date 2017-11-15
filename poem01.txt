@@ -2,3 +2,4 @@ rainbow
 first edit
 this is the first edit on new branch i have created 
 this is branch two
+after i fork i added this line into the rainbow repo
